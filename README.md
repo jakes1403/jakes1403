@@ -1,6 +1,6 @@
 I'm Jacob!
 
-I'm a college student from Louisiana who *loves* to make games!
+I'm a student from Louisiana who enjoys game development.
 
 A lot of my repos are private, but here you will find lots of stuff related to game and general software development.
 
